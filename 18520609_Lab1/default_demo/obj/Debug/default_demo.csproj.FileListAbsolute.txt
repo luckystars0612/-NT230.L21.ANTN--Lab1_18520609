@@ -1,0 +1,9 @@
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\default_demo\bin\Debug\default_demo.exe.config
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\default_demo\bin\Debug\default_demo.exe
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\default_demo\bin\Debug\default_demo.pdb
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\default_demo\obj\Debug\default_demo.ProjectInstaller.resources
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\default_demo\obj\Debug\default_demo.csproj.GenerateResource.cache
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\default_demo\obj\Debug\default_demo.csproj.CoreCompileInputs.cache
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\default_demo\obj\Debug\default_demo.exe
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\default_demo\obj\Debug\default_demo.pdb
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\default_demo\obj\Debug\default_demo.csprojAssemblyReference.cache

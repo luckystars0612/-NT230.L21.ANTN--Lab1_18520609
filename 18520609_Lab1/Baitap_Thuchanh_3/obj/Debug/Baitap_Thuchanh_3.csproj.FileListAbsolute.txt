@@ -1,0 +1,9 @@
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\Baitap_Thuchanh_3\bin\Debug\Baitap_Thuchanh_3.exe.config
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\Baitap_Thuchanh_3\bin\Debug\Baitap_Thuchanh_3.exe
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\Baitap_Thuchanh_3\bin\Debug\Baitap_Thuchanh_3.pdb
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\Baitap_Thuchanh_3\obj\Debug\Baitap_Thuchanh_3.csprojAssemblyReference.cache
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\Baitap_Thuchanh_3\obj\Debug\Baitap_Thuchanh_3.ProjectInstaller.resources
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\Baitap_Thuchanh_3\obj\Debug\Baitap_Thuchanh_3.csproj.GenerateResource.cache
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\Baitap_Thuchanh_3\obj\Debug\Baitap_Thuchanh_3.csproj.CoreCompileInputs.cache
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\Baitap_Thuchanh_3\obj\Debug\Baitap_Thuchanh_3.exe
+H:\Cơ chế hoạt động của mã độc\Lab\18520609_Lab1\Baitap_Thuchanh_3\obj\Debug\Baitap_Thuchanh_3.pdb

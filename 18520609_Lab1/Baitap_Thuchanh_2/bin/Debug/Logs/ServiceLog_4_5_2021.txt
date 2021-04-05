@@ -1,0 +1,24 @@
+Service is started at 4/5/2021 8:18:48 PM
+Process was started at :4/5/2021 8:18:53 PM
+notepad is running
+Process was stopped at:4/5/2021 8:18:58 PM
+Process was stopped at:4/5/2021 8:18:58 PM
+notepad isn't running
+Process was started at :4/5/2021 8:19:03 PM
+notepad is running
+Process was stopped at:4/5/2021 8:19:08 PM
+notepad isn't running
+Process was started at :4/5/2021 8:19:13 PM
+notepad is running
+Service stopped at:4/5/2021 8:19:14 PM
+Service is started at 4/5/2021 8:29:51 PM
+Process was started at :4/5/2021 8:29:56 PM
+notepad is running
+Process was stopped at:4/5/2021 8:30:01 PM
+Process was stopped at:4/5/2021 8:30:01 PM
+notepad isn't running
+Process was started at :4/5/2021 8:30:06 PM
+notepad is running
+Process was stopped at:4/5/2021 8:30:11 PM
+notepad isn't running
+Service stopped at:4/5/2021 8:30:15 PM
